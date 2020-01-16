@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/witech-event/witech-event-fe.git"
+    "url": "git+https://github.com/alpandi15/padiplay-dev.git"
   },
   "keywords": [
     "WiOrganize"
   ],
   "author": "Veirry Augusman",
   "license": "MIT",
-  "homepage": "https://gitlab.com/witech-event/witech-event-fe/blob/master/README.md",
+  "homepage": "https://alpandi15.github.io/padiplay-dev/",
   "dependencies": {
     "@ant-design/icons": "^4.0.0-alpha.9",
     "@date-io/moment": "^1.3.13",
